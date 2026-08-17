@@ -1,9 +1,0 @@
-Somnath Tanaji Kare - Resume Placeholder
-
-Replace this file with your actual resume PDF.
-
-Suggested filename:
-Somnath_Tanaji_Kare_Resume.pdf
-
-After replacing, update the Download Resume link in index.html:
-href="resume/Somnath_Tanaji_Kare_Resume.pdf"
